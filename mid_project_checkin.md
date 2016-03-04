@@ -1,7 +1,7 @@
 ###### Emily Wang & Brenna Manning
 ###### Data Science SP 2016
 
-# Change the World Project
+# Change the World Project: Mid-Project Checkin
 
 ###### Did you accomplish your goals?  If not, what happened
 Our goals for this checkin were to have created some visualizations inspired  by our axes of diversity, 
@@ -9,7 +9,7 @@ looked into some qualitative resources/papers, read the paper associated with ou
 notebooks as a prototyping ground for our visualizations.
 - First, it is important to note that we have pivoted in our project a bit. We are no longer using the original dataset on neuroimaging and relating depression and bipolar disorder. 
 We did not feel it aligned well with providing an opportunity to explore the impact of mental illnesses on people and the impacts of other factors on the prevalance of mental illnesses that we wanted to explore for this project.
-We have chosen instead to use data from the National Survey on Substance Abuse. Because of this, our primary focus will be on the intersection of substance abuse and addiction with other mental illnesses.
+We have chosen instead to use data from the National Survey on Drug Use and Health. Because of this, our primary focus will be on the intersection of substance abuse and addiction with other mental illnesses.
 
 - We have created some visualizations, although we have not explored as many of our original axes of diversity as we would have hoped.
 This is largely due to the nature of the data we are using. We be delving into as many of these axes of diversity as is possible given the data available to us.
